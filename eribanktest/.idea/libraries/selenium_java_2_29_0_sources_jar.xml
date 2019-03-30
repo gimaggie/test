@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="selenium-java-2.29.0-sources.jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/selenium-java-2.29.0-sources.jar.zip!/" />
+      <root url="jar://$USER_HOME$/Downloads/selenium-java-2.29.0.jar.zip!/" />
+      <root url="jar://$USER_HOME$/Downloads/selenium-java-3.11.0.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

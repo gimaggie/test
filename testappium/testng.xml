@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="TestingSuite" parallel="tests" thread-count="2">
+    <test name="Eribank">
+    <classes>
+        <class name="appium"/>
+    </classes>
+    </test>
+    <test name="Eribank1">
+        <classes>
+            <class name="appium"/>
+        </classes>
+    </test>
+</suite>

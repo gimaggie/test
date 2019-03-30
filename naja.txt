@@ -1,0 +1,49 @@
+UAT**
+
+SQL --> sentencias
+
+Metodologias agiles
+
+Pruebas funcionales y no funcionales
+
+Scripst de automatizacion (Selenium Web Driver)
+
+Prebas mobile
+
+Servicios web
+
+Srum
+
+Diseño de casos de prueba
+
+Proceso de desarrollo de software
+
+Jmeter (Pruebas de Stress)
+
+Elaboracion de diagramas de caso de uso 
+
+Elaboracioj de diagramas de flujo 
+
+Linux
+
+Ciclo de vida de prueas 
+
+Ciclo de vida de defectos
+
+Análisis de requerimientos
+
+Documentación de pruebas
+ 
+Quality Center  ALM**
+
+Casos de pruaba 
+
+Creaciónde matriz de pruebas
+
+creación de plan de pruebas
+
+Documentos DDS
+
+Documentos DDR
+
+Documentos DP
